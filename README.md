@@ -1,4 +1,3 @@
-# -Computer-Vision
 # Computer Vision
 
 Welcome to my Computer Vision repository! This project is dedicated to storing basic Python scripts and image resources for exploring computer vision concepts using OpenCV.
